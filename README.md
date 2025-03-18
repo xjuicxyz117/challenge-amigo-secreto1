@@ -11,12 +11,14 @@
 <ul>
   <li>Añadir el nombre de un amigo</li>
   <p>Simplemente escribimos el nombre de nuestro amigo y pulsamos el boton de añadir</p>
+  
   ![image](https://github.com/user-attachments/assets/ff6bedd5-bb50-400d-b976-32ea4b289528)
 
 
   <li>Mostrar lista de amigos y eliminar</li>
   <p>El programa nos muestra la lista de amigos que hemos añadido y tambien nos permite <br>
-  eliminar un nombre en caso de equivocacion</p>
+  eliminar un nombre en caso de equivocacion</p> 
+  
   ![image](https://github.com/user-attachments/assets/5c96a361-9850-49e2-897a-eca4bd12e072)
 
   <li>Sortear el amigo secreto y reiniciar</li>
